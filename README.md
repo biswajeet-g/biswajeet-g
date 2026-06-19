@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Biswajeet Ganthia
-------
 
 I welcome you to my Github profile! I am an Electronics Undergraduate student currently working and eagerly interested about Microelectronics, VLSI Design and Computer Programming.
 
@@ -74,14 +73,3 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 # 📫 Connect With Me
 🔗 [**LinkedIn**](https://www.linkedin.com/in/biswajeet-ganthia-92a000271/)
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswajeet-g&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeet-g&layout=compact&theme=tokyonight" />
-</p>
-
----

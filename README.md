@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi there, I'm Biswajeet Ganthia
+------
 
-<!--
-**biswajeet-g/biswajeet-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I welcome you to my Github profile! I am an Electronics Undergraduate student currently working and eagerly interested about Microelectronics, VLSI Design and Computer Programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 My Work Domain
+
+- ##### ⚡ Analog IC Design
+  - Analog circuit design using Sky130 PDK
+  - Tools: Xschem,Ngspice,Magic VLSI,Sky130 PDK
+
+---
+
+- ##### 🧪 Verification
+  - Functional Verification, Testbench Development, Simulation, Debugging and Waveform Analysis
+  - Tools: Icarus Verilog, GTKWave
+
+---
+
+- ##### 🔋 Piezoelectric Energy Harvesting Research
+###### Summer Research Intern @ CSIR-IMMT, Bhubaneswar
+  - Research Areas:
+
+    - PVDF-HFP Polymer Nanocomposites
+    - BCZT Piezoceramics
+    - MXene Reinforcement
+    - Energy Harvesting Mechanisms
+    - Ferroelectric Characterization
+    - P-E Hysteresis Analysis
+    - Dielectric Studies
+  - Tools: Origin 2021, ngspice, Arduino UNO
+
+---
+
+- ##### 📡 Embedded & IoT Systems
+
+  - ESP32 Development
+  - Arduino Programming
+  - Sensor Interfacing
+  - Wireless Monitoring Systems
+
+
+## 🚀 Featured Projects
+
+### 🔋 Piezoelectric Energy Harvester
+
+- Mechanical-to-Electrical Energy Conversion
+- PVDF-Based Harvesting Systems
+- Equivalent Circuit Development
+- NGSpice Simulation Framework
+
+---
+
+### 🎤 Analog MEMS Microphone
+
+- Low Noise Amplifier Design
+- Analog Signal Conditioning
+- Sky130 Implementation Flow
+
+---
+
+
+# 🏆 Achievements
+
+- Summer Research Intern at CSIR-IMMT Bhubaneswar
+- NPTEL Certified
+- President, Rotaract Club of Bhubaneswar Sunshine (2025-26)
+- Event Management Lead, Google Developer Groups on Campus (GDGoC), Silicon University
+
+---
+
+# 📫 Connect With Me
+🔗 [**LinkedIn**](https://www.linkedin.com/in/biswajeet-ganthia-92a000271/)
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biswajeet-g&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeet-g&layout=compact&theme=tokyonight" />
+</p>
+
+---

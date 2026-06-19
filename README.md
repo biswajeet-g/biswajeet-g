@@ -6,13 +6,13 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 
 ## 🔬 My Work Domain
 
-- ##### ⚡ Analog IC Design
+- #### ⚡ Analog IC Design
   - Analog circuit design with differential amplifier, current mirrors
   - Tools: Xschem,Ngspice,Magic VLSI,Sky130 PDK
 
 ---
 
-- ##### 🧪 Verification
+- #### 🧪 Verification
   - Functional Verification, Testbench Development, Simulation, Debugging and Waveform Analysis
   - Tools: Icarus Verilog, GTKWave
 

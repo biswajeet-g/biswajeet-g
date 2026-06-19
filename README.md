@@ -18,7 +18,7 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 
 ---
 
-- ##### 🔋 Piezoelectric Energy Harvesting Research
+- #### 🔋 Piezoelectric Energy Harvesting Research
   ###### Summer Research Intern @ CSIR-IMMT, Bhubaneswar
     - Research Areas:
 

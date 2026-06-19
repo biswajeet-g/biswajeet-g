@@ -7,7 +7,7 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 ## 🔬 My Work Domain
 
 - ##### ⚡ Analog IC Design
-  - Analog circuit design using Sky130 PDK
+  - Analog circuit design with differential amplifier, current mirrors
   - Tools: Xschem,Ngspice,Magic VLSI,Sky130 PDK
 
 ---
@@ -19,26 +19,26 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 ---
 
 - ##### 🔋 Piezoelectric Energy Harvesting Research
-###### Summer Research Intern @ CSIR-IMMT, Bhubaneswar
-  - Research Areas:
+  ###### Summer Research Intern @ CSIR-IMMT, Bhubaneswar
+    - Research Areas:
 
-    - PVDF-HFP Polymer Nanocomposites
-    - BCZT Piezoceramics
-    - MXene Reinforcement
-    - Energy Harvesting Mechanisms
-    - Ferroelectric Characterization
-    - P-E Hysteresis Analysis
-    - Dielectric Studies
-  - Tools: Origin 2021, ngspice, Arduino UNO
+      - PVDF-HFP Polymer Nanocomposites
+      - BCZT Piezoceramics
+      - MXene Reinforcement
+      - Energy Harvesting Mechanisms
+      - Ferroelectric Characterization
+      - P-E Hysteresis Analysis
+      - Dielectric Studies
+    - Tools: Origin 2021, ngspice, Arduino UNO
 
 ---
 
 - ##### 📡 Embedded & IoT Systems
 
-  - ESP32 Development
-  - Arduino Programming
-  - Sensor Interfacing
-  - Wireless Monitoring Systems
+    - ESP32 Development
+    - Arduino Programming
+    - Sensor Interfacing
+    - Wireless Monitoring Systems
 
 
 ## 🚀 Featured Projects
@@ -64,7 +64,7 @@ I welcome you to my Github profile! I am an Electronics Undergraduate student cu
 # 🏆 Achievements
 
 - Summer Research Intern at CSIR-IMMT Bhubaneswar
-- NPTEL Certified
+- NPTEL Certified (Introduction to Industry 4.0 and Industrial Internet of Things)
 - President, Rotaract Club of Bhubaneswar Sunshine (2025-26)
 - Event Management Lead, Google Developer Groups on Campus (GDGoC), Silicon University
 
